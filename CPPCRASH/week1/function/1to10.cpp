@@ -9,14 +9,9 @@ int counting(){
     }
 }
 
-
-
 int main(){
 
     counting();
-
-
-
 
     return 0;
 }
