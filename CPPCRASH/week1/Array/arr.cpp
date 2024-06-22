@@ -10,9 +10,9 @@ int main(){
     cout<<multipleof2[9]<<endl;
 
     //traverse
-    // for(int i=0;i<=9;i++){
-    //     cout<<multipleof2[i]<<" ";
-    // }
+    for(int index=0;index<=9;index++){
+        cout<<multipleof2[index]<<" ";
+    }
 
 
     return 0;
