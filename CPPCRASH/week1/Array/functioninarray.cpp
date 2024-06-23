@@ -8,7 +8,8 @@ void printArray(int arr[],int size){
     }
 
 }
-
+/// @brief 
+/// @return 
 int main(){
 
     int arr[]={10,20,30,40};
