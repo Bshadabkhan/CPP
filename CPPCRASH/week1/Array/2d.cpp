@@ -51,7 +51,8 @@ int main(){
         cout<<endl;   
     }
 
-    // //printing
+
+    //printing
     for(int row_index=0; row_index<=row-1;row_index++){
         for(int col_index=0;col_index<=col-1;col_index++){
             cout<<arr[row_index][col_index]<<" ";
