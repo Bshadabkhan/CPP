@@ -17,10 +17,21 @@ int main(){
 //    int asciiValue = arr[4];
 //    cout<<asciiValue<<endl;
 
-char arr[4];
-arr[0] = 'a';
-arr[1]='b';
-arr[2]='\0';
+// char arr[4];
+// arr[0] = 'a';
+// arr[1]='b';
+// arr[2]='\0';
+
+int arr[4] = {1,2,3,4};
+cout<<arr<<endl;// o/p base address
+
+char brr[5] = "love";
+cout<<brr<<endl;//o/p is possible
+for(int i = 0;i<=5;i++){
+    cout<<brr[i] <<" ";
+}
+
+
 
 
     return 0;
