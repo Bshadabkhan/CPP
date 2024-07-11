@@ -46,7 +46,7 @@ int main(){
     for(int row_index=0; row_index<=row-1;row_index++){
         for(int col_index=0;col_index<=col-1;col_index++){
             cout<<"Enter the input for arr["<<row_index<<"]["<<col_index<<"]:";
-            cin>>arr[row_index][col_index];
+            cin>>arr[row_i  ndex][col_index];
         }
         cout<<endl;   
     }

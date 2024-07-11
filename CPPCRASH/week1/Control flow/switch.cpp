@@ -2,7 +2,7 @@
 using namespace std;
 
 int main(){
-    char grade;
+    char grade; 
     cout<<"Enter your grade"<<endl;
     cin>>grade;
 
@@ -62,4 +62,4 @@ int main(){
     
 
      return 0;
-// }
+}
